@@ -2,7 +2,7 @@
 
 Summary:       Python's own image processing library
 Name:          python3-imaging
-Version:       9.0.0
+Version:       10.3.0
 Release:       1
 License:       BSD
 Source0:       %{name}-%{version}.tar.gz
