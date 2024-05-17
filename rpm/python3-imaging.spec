@@ -11,6 +11,7 @@ URL:           https://python-pillow.org/
 BuildRequires: freetype-devel
 BuildRequires: libjpeg-devel
 BuildRequires: libtiff-devel
+BuildRequires: libwebp-devel
 BuildRequires: python3-devel
 BuildRequires: python3-setuptools
 BuildRequires: zlib-devel
